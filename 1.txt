@@ -4,3 +4,4 @@ git added and saved
 git adeed1 and git 
 
 adding code from footer
+adding code from master
